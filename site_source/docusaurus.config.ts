@@ -10,7 +10,7 @@ const config: Config = {
   favicon: 'img/favicon-social-lab.png',
 
   // Set the production url of your site here
-  url: 'https://socialsoftwarelivinglab.github.io/',
+  url: 'https://caiomelloni.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/docs/',
